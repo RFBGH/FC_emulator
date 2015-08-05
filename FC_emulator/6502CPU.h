@@ -3,7 +3,7 @@
 
 #include "Public.h"
 #include "PPU.h"
-#include "FcInput.h"
+#include "FcInput.h"    
 #include "NesFile.h"
 
 #define CPU6502_ERR_NONE			0x00
