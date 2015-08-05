@@ -28,7 +28,7 @@ public:
 	UINT  m_IsrLock;
 	UINT  m_StrLock;
 	
-	UCHAR m_rA;		//¼Ä´æÆ÷A  xxffxooo
+	UCHAR m_rA;		//¼Ä´æÆ÷A  registerA
 	UCHAR m_rX;		//¼Ä´æÆ÷X
 	UCHAR m_rY;		//¼Ä´æÆ÷Y    
 	UCHAR m_rSP;	//¶ÑÕ»Ö¸Õë
