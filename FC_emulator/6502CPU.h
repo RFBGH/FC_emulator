@@ -22,7 +22,7 @@ class CPU6502
 public:
 	
 	PPU* m_pPPU;
-	FcInput* m_pFcInput;
+	FcInput* m_pFcInput;   //nontinggg
 	
 	UINT  m_ErrCode;
 	UINT  m_IsrLock;
